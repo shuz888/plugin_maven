@@ -1,0 +1,7 @@
+name: plugin
+version: '${project.version}'
+main: top.shuzhiserver.plugin.Main
+api-version: '1.20'
+commands:
+  dhmt:
+  gui:
